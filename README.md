@@ -9,8 +9,7 @@ Meu nome é Pedro Lucas. Eu sou um programador web apaixonado por tecnologia e i
 Você também pode me encontrar em outras plataformas: 🔍
 
 - [GitHub](https://github.com/PedroL222) 🐙
-- [Twitter](https://twitter.com/seu-usuario) 🐦
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario/) 💼
+- [Instagram](https://www.instagram.com/pedrolucasf.s/) 📷
 
 ## Projetos
 
