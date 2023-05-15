@@ -13,9 +13,10 @@ Você também pode me encontrar em outras plataformas: 🔍
 
 ## Projetos
 
-1. [Verificar de Clima Online](https://github.com/PedroL222/Verificar-o-Clima-de-Cidades) 🚀
-2. [Todo-List Avançado](https://github.com/PedroL222/Lista-de-tarefas) 🌟
-3. [Jogo da Forca Online](https://github.com/PedroL222/Lista-de-tarefas) 📦
+1. [Verificar de Clima Online](https://pedrol222.github.io/Verificar-o-Clima-de-Cidades/) 🚀
+2. [Todo-List Avançado](https://pedrol222.github.io/Lista-de-tarefas/) 🌟
+3. [Jogo da Forca Online](https://pedrol222.github.io/Jogo-da-Forca/view/index.html) 📦
+4. [Sistema de Vendas](https://pedrol222.github.io/sistema_de_vendas/) 📦
 
 ## Contribuições
 
