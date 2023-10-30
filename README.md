@@ -8,6 +8,7 @@ Meu nome é Pedro Lucas. Eu sou um programador web apaixonado por tecnologia e i
 
 Você também pode me encontrar em outras plataformas: 🔍
 
+- [Portifólio](https://portifoliopedrolucas.web.app/)
 - [GitHub](https://github.com/PedroL222) 🐙
 - [Instagram](https://www.instagram.com/pedrolucasf.s/) 📷
 
