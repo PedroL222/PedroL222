@@ -1,6 +1,6 @@
 # Desenvolvedor Full Stack
 
-Este é um repositório do GitHub que contém o meu projeto. 👨‍💻🚀
+👨‍💻🚀
 
 ## Sobre Mim
 
